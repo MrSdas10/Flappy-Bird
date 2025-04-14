@@ -19,7 +19,8 @@ Welcome to **Flappy Bird: AI Edition** — a Python-based, fully functional clon
 
 ## 📸 Screenshots
 
-![alt text](<image.png>)
+![ChatGPT Image Apr 14, 2025, 02_18_40 PM](https://github.com/user-attachments/assets/bd1de520-fba5-4918-8f1f-3737c7e2d691)
+
 
 ---
 
